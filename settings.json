@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zeno_XDD-Jb1i.aternos.me:53059",
+    "ip": "Zeno_XDD-Jb1i.aternos.me",
     "port": 53059,
     "version": "",
     "try-creative": false
