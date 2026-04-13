@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BotFor24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Zeno_XDD-Jb1i.aternos.me:53059",
+    "port": 53059,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm a regular Nigger",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like to play Minecraft with Epstein!"
       ]
     },
     "chat-log": true,
